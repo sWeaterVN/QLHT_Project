@@ -1,6 +1,7 @@
 # 📚 Quản lý học tập - Streamlit App
 --- 
 ## 🚀 Layout
+```bash
 Quan_ly-hoc_tap/
 │── main.py              # Main file (Run  this file first)
 │── pages/
@@ -11,8 +12,7 @@ Quan_ly-hoc_tap/
 │    ├── login.py        # login
 │── requirements.txt
 │── README.md
-
-
+```
 ---
 ## 🚀 Settings
 
