@@ -15,7 +15,6 @@ Quan_ly-hoc_tap/
 ```
 ---
 ## 🚀 Settings
-
 ### Create a virtual environment (recommended)
 ```bash
 python -m venv venv
@@ -25,8 +24,14 @@ venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 or
-pip install streamlit pandas
+pip install streamlit
 ```
+### Run (Personal computer)
+```bash
+streamlit run main.py
+```
+---
+
 
 
 
