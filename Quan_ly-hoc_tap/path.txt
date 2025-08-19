@@ -1,0 +1,2 @@
+Main_image : "https://i.ibb.co/KjPLQF1p/Website-Qu-n-l-h-c-t-p.png"
+Function_image = "https://i.ibb.co/TxYy7Sk0/Website-Qu-n-l-h-c-t-p-1.png"
